@@ -21,7 +21,7 @@ Details, assumptions and false-positive risks for each check are in [docs/checks
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/aws-finops-audit.git
+git clone https://github.com/brdiniz/aws-finops-audit.git
 cd aws-finops-audit
 pip install -e .
 
@@ -61,7 +61,7 @@ Finding waste is the easy part. Deciding what is safe to remove, right-sizing wi
 
 I offer a fixed-scope **AWS cost review**: I run this and a deeper manual analysis against your account (read-only access), then give you a prioritised list of savings with the risk and effort of each, and a walkthrough call. I also advise teams on engineering structure and on AWS migrations.
 
-Contact: <your-email-or-booking-link>
+Contact: brdiniz@icloud.com
 
 ## License
 
